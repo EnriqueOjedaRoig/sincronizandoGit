@@ -5,7 +5,12 @@
 //I = C · i · t
 
 
-public static double calcularInter(argumentos){
+
+class Interes{
+public static double calcularInter(double tasa,double tiempo,double capital){
    //código para calcular el interes
+   
+   return interes=capital*tiempo*tasa;
    //return interes
+}
 }
