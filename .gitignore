@@ -1,0 +1,5 @@
+#ignoramos los .class
+*.class
+#tambien las de documentacion
+*/doc/
+/doc/
